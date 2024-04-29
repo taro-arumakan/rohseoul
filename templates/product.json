@@ -15,6 +15,11 @@
             "show_taxes_notice": false
           }
         },
+        "separator_9Vkcm4": {
+          "type": "separator",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -23,6 +28,11 @@
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
+          }
+        },
+        "separator_FhyBD7": {
+          "type": "separator",
+          "settings": {
           }
         },
         "quantity_selector": {
@@ -73,7 +83,9 @@
       "block_order": [
         "title",
         "price",
+        "separator_9Vkcm4",
         "variant_picker",
+        "separator_FhyBD7",
         "quantity_selector",
         "payment_terms",
         "buy_buttons",
