@@ -5,7 +5,7 @@
 
   #shopify-section-{{ section.id }} {
     --header-grid: "primary-nav logo secondary-nav" / minmax(0, 1fr) auto minmax(0, 1fr);
-    --header-padding-block: 1rem;
+    --header-padding-block: 0.94rem;
     --header-transparent-header-text-color: {{ section.settings.transparent_header_text_color.rgb }};
     --header-separation-border-color: {% if section.settings.show_separation_border %}{{ section.settings.color_scheme.settings.text_color.rgb }} / 0.15{% else %}0 0 0 / 0{% endif %};
 
