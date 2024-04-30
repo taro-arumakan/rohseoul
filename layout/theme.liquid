@@ -98,7 +98,10 @@
       {%- endcomment -%}
     </span>
 
-    {%- if request.page_type != 'password' -%}
+    {%- if request.page_type == 'page' %}
+      {%- sections 'header-group-page' -%}
+      {%- sections 'overlay-group' -%}
+    {%- elsif request.page_type != 'password' -%}
       {%- sections 'header-group' -%}
       {%- sections 'overlay-group' -%}
     {%- endif -%}
