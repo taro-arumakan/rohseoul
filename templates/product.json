@@ -6,7 +6,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h3"
+            "heading_tag": "h5"
           }
         },
         "price": {
@@ -69,14 +69,26 @@
             "show_below_gallery": false
           }
         },
-        "complementary_products": {
-          "type": "complementary_products",
+        "accordion_PwXCdf": {
+          "type": "accordion",
           "settings": {
-            "title": "Pairs well with",
-            "products_count": 2,
             "show_below_gallery": true,
-            "stack_products": false,
-            "show_quick_buy": true
+            "icon": "none",
+            "title": "Specification",
+            "content": "{{ product.metafields.custom.specification | metafield_tag }}",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_xQVmfE": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "Product Care",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "liquid": "",
+            "page": "product-care"
           }
         }
       },
@@ -91,7 +103,8 @@
         "buy_buttons",
         "separator",
         "description",
-        "complementary_products"
+        "accordion_PwXCdf",
+        "accordion_xQVmfE"
       ],
       "settings": {
         "color_scheme": "",
