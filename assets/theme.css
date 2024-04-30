@@ -5692,6 +5692,7 @@ tfoot td {
   gap: var(--product-gap, 1.875rem);
   display: grid;
   margin-top: 2.5rem;
+  grid-template-columns: 37% auto;
 }
 
 @media screen and (min-width: 1000px) {
@@ -5816,6 +5817,9 @@ tfoot td {
 }
 
 @media screen and (min-width: 1000px) {
+  .product-gallery {
+    grid-column: 2;
+  }
   .product-gallery__thumbnail-list {
     position: sticky;
     inset-block-start: calc(var(--sticky-area-height)  + 20px);
@@ -5898,6 +5902,7 @@ tfoot td {
   .product-info {
     position: sticky;
     inset-block-start: calc(var(--sticky-area-height)  + 20px);
+    grid-column: 1;
   }
 }
 

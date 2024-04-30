@@ -72,7 +72,7 @@
         "accordion_PwXCdf": {
           "type": "accordion",
           "settings": {
-            "show_below_gallery": true,
+            "show_below_gallery": false,
             "icon": "none",
             "title": "Specification",
             "content": "{{ product.metafields.custom.specification | metafield_tag }}",
@@ -83,7 +83,7 @@
         "accordion_xQVmfE": {
           "type": "accordion",
           "settings": {
-            "show_below_gallery": true,
+            "show_below_gallery": false,
             "icon": "none",
             "title": "Product Care",
             "content": "<p>Share some content to your customers about your products.</p>",
