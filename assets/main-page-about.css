@@ -82,6 +82,9 @@
 .pagesection_mobile {
   text-align: right;
 }
+.separator_pc {
+  display: none;
+}
 
 @media screen and (min-width: 1000px) {
   .vectors1 {
@@ -117,9 +120,15 @@
 
   .separator {
     grid-column: span 2;
-    width: 80%;
+    width: 100%;
+    margin-left: 3.75rem;
+    margin-right: 3.75rem;
   }
-
+  .separator_pc {
+    display: block;
+    width: 50%;
+    margin-left: 3.75rem;
+  }
   .pagesection_mobile {
     display: none;
   }
