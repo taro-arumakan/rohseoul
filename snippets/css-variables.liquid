@@ -217,8 +217,9 @@ note that this may have impact on different places.
       --background: {{ color_scheme.settings.background.rgb }} / {{ color_scheme.settings.background.alpha }};
       --background-without-opacity: {{ color_scheme.settings.background.rgb }};
       --background-gradient: {{ color_scheme.settings.background_gradient }};
-
-      {%- if color_scheme.settings.background_gradient != blank -%}
+      {%- if color_scheme.id == 'scheme-1' -%}
+        --border-color: #1F1E1E;
+      {%- elsif color_scheme.settings.background_gradient != blank -%}
         --border-color: {{ color_scheme.settings.text_color.rgb }} / 0.15;
       {%- elsif color_scheme.settings.background == 'rgba(0,0,0,0)' -%}
         --border-color: {{ color_scheme.settings.text_color.rgb }};
