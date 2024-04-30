@@ -5,10 +5,10 @@
     "cart-drawer": {
       "type": "cart-drawer",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "show_cart_note": true,
         "show_shipping_text": true,
-        "show_view_cart_button": false,
+        "show_view_cart_button": true,
         "show_checkout_button": true,
         "show_price_in_checkout_button": true,
         "cross_sell_products": [
