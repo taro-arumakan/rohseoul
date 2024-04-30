@@ -3373,7 +3373,7 @@ tfoot td {
 }
 
 .breadcrumb {
-  display: none;
+  display: block;
 }
 
 .breadcrumb__list {
@@ -3384,7 +3384,7 @@ tfoot td {
 }
 
 .breadcrumb__list-item + .breadcrumb__list-item:before {
-  content: "/";
+  content: "-";
   color: rgb(var(--text-color) / .65);
   margin-inline-end: .375rem;
   font-size: .625rem;
@@ -7669,4 +7669,31 @@ sale-price.h4 {
 
 .color-scheme--scheme-3>nav>a>svg {
   filter: invert(1);
+}
+
+
+/* page-about */
+.subtitle {
+  margin-left: 0.63rem;
+  margin-bottom: 1.88rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.75rem;
+}
+.prose>p {
+  margin-left: 3.75rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.75rem;
+}
+.separator {
+  width: 20rem;
+  margin-top: 6.25rem;
+  margin-bottom: 6.25rem;
+}
+.separator > hr {
+  border-color: #F2F1ED;
+  border-width: 0.09375rem;
 }

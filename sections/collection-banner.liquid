@@ -73,7 +73,7 @@
       </div>
     </div>
   </collection-banner>
-{%- elsif collection_content != blank -%}
+{%- elsif collection_content != blank or collection_breadcrumb != blank -%}
   <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
     <div class="relative section-spacing section-spacing--tight">
       <div class="container container--{{ section.settings.content_width }}">
