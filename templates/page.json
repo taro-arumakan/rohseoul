@@ -3,6 +3,9 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "color_scheme": "scheme-3",
+        "show_title": true,
+        "page_width": "xs"
       }
     }
   },
