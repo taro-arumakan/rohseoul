@@ -4609,7 +4609,7 @@ G
 }
 
 @media screen and (min-width: 1000px) {
-  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:has([open])) {
+  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header{
     --header-show-transparent-logo: 1;
     --header-separation-border-color: 0 0 0 / 0;
     --background: 0 0 0 / 0;
@@ -4620,7 +4620,7 @@ G
 }
 
 @media screen and (min-width: 1000px) {
-  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:has([open])) .link-faded {
+  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header .link-faded {
     color: currentColor;
     transition: none;
   }
