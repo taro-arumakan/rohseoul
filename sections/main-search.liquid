@@ -1,3 +1,23 @@
+<div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
+  <div class="container container--xs">
+    <div class="empty-state">
+      <div class="v-stack gap-4">
+        {% comment %} <div class="prose">
+          <h1 class="h4">{{ 'search.general.title' | t }}</h1>
+        </div> {% endcomment %}
+
+        <form class="main-search-form" action="{{ routes.search_url }}" method="get" role="search">
+          {%- assign placeholder = 'search.general.search_placeholder' | t -%}
+
+          <div class="relative">
+            {%- render 'input', type: 'text', name: 'q', label: placeholder, autocomplete: 'off', autocorrect: 'off' -%}
+            <button type="submit" class="input-suffix link-faded">{% render 'icon' with 'search' %}</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
 {%- if search.performed -%}
   {%- liquid
     assign active_values_count = 0
@@ -54,7 +74,6 @@
           <div class="section-stack">
             <div class="section-header justify-self-center text-center">
               <div class="v-stack gap-4">
-                <h1 class="h2">{{ 'search.general.title' | t }}</h1>
                 <p>{{ 'search.results_count_for_terms' | t: count: search.results_count, terms: search.terms }}</p>
               </div>
             </div>
@@ -210,49 +229,19 @@
       </div>
     {%- endpaginate -%}
   {%- else -%}
-    <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
-      <div class="container container--xs">
-        <div class="empty-state">
-          <div class="v-stack gap-4">
-            {% comment %} <div class="prose">
-              <h1 class="h4">{{ 'search.general.title' | t }}</h1>
-              <p>{{ 'search.general.no_results' | t }}</p>
-            </div> {% endcomment %}
-
-            <form class="main-search-form" action="{{ routes.search_url }}" method="get" role="search">
-              {%- assign placeholder = 'search.general.search_placeholder' | t -%}
-
-              <div class="relative">
-                {%- render 'input', type: 'text', name: 'q', label: placeholder, autocomplete: 'off', autocorrect: 'off' -%}
-                <button type="submit" class="input-suffix link-faded">{% render 'icon' with 'search' %}</button>
-              </div>
-            </form>
+    <div class="section-spacing section-spacing--tight color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
+      <div class="container">
+        <div class="section-stack">
+          <div class="section-header justify-self-center text-center">
+            <div class="v-stack gap-4">
+            <p>{{ 'search.results_count_for_terms' | t: count: search.results_count, terms: search.terms }}</p>
+            </div>
           </div>
         </div>
       </div>
     </div>
+
   {%- endif -%}
-{%- else -%}
-  <div class="color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
-    <div class="container container--xs">
-      <div class="empty-state">
-        <div class="v-stack gap-4">
-          {% comment %} <div class="prose">
-            <h1 class="h4">{{ 'search.general.title' | t }}</h1>
-          </div> {% endcomment %}
-
-          <form class="main-search-form" action="{{ routes.search_url }}" method="get" role="search">
-            {%- assign placeholder = 'search.general.search_placeholder' | t -%}
-
-            <div class="relative">
-              {%- render 'input', type: 'text', name: 'q', label: placeholder, autocomplete: 'off', autocorrect: 'off' -%}
-              <button type="submit" class="input-suffix link-faded">{% render 'icon' with 'search' %}</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
 {%- endif -%}
 
 {% schema %}
