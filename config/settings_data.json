@@ -15,8 +15,9 @@
     "button_letter_spacing": 18,
     "show_page_transition": true,
     "show_product_rating": false,
-    "social_instagram": "https://www.instagram.com/rohseoul/",
-    "social_youtube": "https://www.youtube.com/@rohseoul",
+    "social_instagram": "https:\/\/www.instagram.com\/rohseoul\/",
+    "social_youtube": "https:\/\/www.youtube.com\/@rohseoul",
+    "favicon": "{{ shop.brand.square_logo }}",
     "content_for_index": [
 
     ],

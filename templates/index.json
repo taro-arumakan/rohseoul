@@ -9,7 +9,7 @@
         "image_size": "auto",
         "subheading": "Keep me updated",
         "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -20,9 +20,9 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/main_bg.png",
-        "mobile_image": "shopify://shop_images/top_mobile.png",
-        "allow_transparent_header": false,
+        "image": "shopify:\/\/shop_images\/main_bg.png",
+        "mobile_image": "shopify:\/\/shop_images\/top_mobile.png",
+        "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
