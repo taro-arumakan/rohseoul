@@ -5057,7 +5057,7 @@ tfoot td {
 }
 
 .header-sidebar {
-  --header-linklist-padding-block: 1rem;
+  --header-linklist-padding-block: 0.625rem;
 }
 
 .header-sidebar::part(close-button) {
@@ -5205,12 +5205,21 @@ tfoot td {
   padding-block-start: var(--header-linklist-padding-block);
   padding-block-end: var(--header-linklist-padding-block);
   color: var(--black-88, #1F1E1E);
-  font-size: 1.125rem;
+  font-size: 1.4rem;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.5rem;
   letter-spacing: 0.05625rem;
-  text-transform: uppercase;
+  text-transform: none;
+}
+
+.header-sidebar__linklist>li:nth-child(0n+4) {
+  margin-top: 6.75rem;
+}
+.header-sidebar__linklist>li:nth-child(1n+4)>a {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.0625rem;
 }
 
 .header-sidebar__linklist.divide-y .header-sidebar__back-button {
