@@ -42,7 +42,7 @@
         "enable_search": false,
         "sidebar_color_scheme": "",
         "sidebar_text_font": "heading",
-        "sidebar_show_dividers": true,
+        "sidebar_show_dividers": false,
         "layout": "logo_center_navigation_inline",
         "show_icons": true,
         "show_country_selector": false,
