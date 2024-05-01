@@ -4687,6 +4687,11 @@ G
 
 .header__primary-nav .h6 {
   text-transform: none;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5rem;
+  letter-spacing: 0.05625rem;
 }
 
 .header__primary-nav-item:before {
@@ -4768,16 +4773,24 @@ G
 }
 
 .header__dropdown-menu {
-  background: rgb(var(--background));
+  background: rgb(0 0 0 / 0);
   color: rgb(var(--text-color));
-  box-shadow: 2px 2px 6px rgb(var(--text-color) / .05);
-  border-width: 0 1px 1px;
   width: max-content;
   min-width: 12.5rem;
-  max-width: 17.5rem;
+  max-width: 28rem;
   padding-block: 1.125rem;
   position: absolute;
   inset-block-start: calc(100% - 2px);
+  top: inherit;
+}
+
+.header__dropdown-menu li {
+  margin-left: 15rem;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5rem;
+  letter-spacing: 0.05625rem;
 }
 
 .header__dropdown-menu:not(:has(.header__dropdown-menu)) {
