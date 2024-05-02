@@ -1913,7 +1913,7 @@ var DialogElement = class extends HTMLElement {
         this.controls.forEach((toggle) => toggle.setAttribute("aria-expanded", newValue === null ? "false" : "true"));
         if (oldValue === null && (newValue === "" || newValue === "immediate")) {
           __privateSet(this, _originalParentBeforeAppend, null);
-          this.style.setProperty("display", "block");
+          this.style.setProperty("display", "inline-block");
           this.dispatchEvent(new CustomEvent("dialog:before-show"));
           if (this.shouldAppendToBody && this.parentElement !== document.body) {
             __privateSet(this, _originalParentBeforeAppend, this.parentElement);
@@ -5256,9 +5256,9 @@ _openCollapsiblePanel = new WeakSet();
 openCollapsiblePanel_fn = function(event) {
   __privateGet(this, _buttonElements).forEach((button) => button.setAttribute("aria-expanded", button === event.currentTarget ? "true" : "false"));
   __privateGet(this, _collapsiblePanel)?.setAttribute("aria-activedescendant", event.currentTarget.getAttribute("aria-controls"));
-  if (matchesMediaQuery("md-max")) {
-    animate18(this.querySelector(".header-sidebar__main-panel"), { opacity: [1, 0], transform: ["translateX(0)", "translateX(-10px)"] }, { duration: 0.25 });
-  }
+  // if (matchesMediaQuery("md-max")) {
+  //   animate18(this.querySelector(".header-sidebar__main-panel"), { opacity: [1, 0], transform: ["translateX(0)", "translateX(-10px)"] }, { duration: 0.25 });
+  // }
 };
 _onSidebarBeforeShow = new WeakSet();
 onSidebarBeforeShow_fn = function() {

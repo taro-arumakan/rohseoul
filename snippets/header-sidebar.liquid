@@ -116,12 +116,11 @@ therefore using a different structure for the Shadow DOM template
         {%- for link in menu.links -%}
           {%- if link.links.size > 0 -%}
             <div id="header-panel-{{ forloop.index }}" class="header-sidebar__sub-panel" hidden>
-              <button type="button" class="header-sidebar__back-button link-faded {% if show_dividers %}is-divided{% endif %} text-with-icon {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %} md:hidden" data-action="close-panel">
-                {%- render 'icon' with 'chevron-left', width: 12, direction_aware: true -%}
-                {{- link.title -}}
-              </button>
-
+                <div class="submenu-line">
+                  <hr>
+                </div>
               <ul class="header-sidebar__linklist {% if show_dividers %}divide-y{% endif %} unstyled-list" role="list">
+                <div style="min-height:45px"></div>
                 {%- for sub_link in link.links -%}
                   <li>
                     {%- if sub_link.links.size > 0 -%}
