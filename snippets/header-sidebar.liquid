@@ -115,10 +115,10 @@ therefore using a different structure for the Shadow DOM template
       <div class="header-sidebar__scroller">
         {%- for link in menu.links -%}
           {%- if link.links.size > 0 -%}
+            <div class="submenu-line">
+              <hr>
+            </div>
             <div id="header-panel-{{ forloop.index }}" class="header-sidebar__sub-panel" hidden>
-                <div class="submenu-line">
-                  <hr>
-                </div>
               <ul class="header-sidebar__linklist {% if show_dividers %}divide-y{% endif %} unstyled-list" role="list">
                 <div style="min-height:45px"></div>
                 {%- for sub_link in link.links -%}

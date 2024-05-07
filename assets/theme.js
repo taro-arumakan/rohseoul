@@ -5337,6 +5337,7 @@ var HeaderSidebarCollapsiblePanel = class extends DialogElement {
       } else {
         await this.hide();
         Array.from(this.querySelectorAll(".header-sidebar__sub-panel")).forEach((subPanel) => subPanel.hidden = true);
+        this.querySelector(".submenu-line").style.opacity = 0;
       }
     }
   }
@@ -5362,7 +5363,8 @@ switchPanel_fn = async function(fromPanel, toPanel) {
   timeline9([
     [toPanel, { opacity: 1 }, { duration: 0 }],
     [toPanel.querySelectorAll(listSelector), { opacity: [0, 1], transform: ["translateY(8px)", "translateY(0)"] }, { duration: 0.15, at: "-0.15", delay: window.themeVariables.settings.staggerMenuApparition ? stagger3(0.1) : 0 }],
-    [toPanel.querySelector(".header-sidebar__promo"), { opacity: [0, 1] }, { duration: 0.45 }]
+    [toPanel.querySelector(".header-sidebar__promo"), { opacity: [0, 1] }, { duration: 0.45 }],
+    [this.querySelector(".submenu-line"), { opacity: [0, 1], transform: ["translateY(8px)", "translateY(0)"] }, { duration: 0.15, at: "-0.15", delay: window.themeVariables.settings.staggerMenuApparition ? stagger3(0.1) : 0 }]
   ]);
 };
 if (!window.customElements.get("x-header")) {
