@@ -40,6 +40,10 @@
       <script src="{{ 'vendor/qrcode.js' | shopify_asset_url }}" defer></script>
     {%- endif -%}
 
+    {%- if request.page_type == 'page' -%}
+      <script src="{{ 'animate.js' | asset_url }}" defer></script>
+    {%- endif -%}
+
     <script>
       if (!(HTMLScriptElement.supports && HTMLScriptElement.supports('importmap'))) {
         const importMapPolyfill = document.createElement('script');

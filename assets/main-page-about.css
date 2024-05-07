@@ -94,6 +94,8 @@
 
   .vectors1>img {
     transform: rotate(-0.25turn);
+    width: 100%;
+    object-fit: contain;
   }
 
   .prose {
@@ -149,4 +151,26 @@
   .prose>p>img {
     width: 100%;
   }
+}
+
+
+.reveal_fadein_letter {
+  opacity: 0;
+}
+
+.reveal_fadein_letter.hidden {
+  opacity: 0;
+}
+
+.reveal_fadein_letter.active {
+  opacity: 1;
+}
+
+.reveal_fadein_letter>span {
+  opacity: 0;
+  transition: opacity 400ms cubic-bezier(1, 0, 0.1, 1);
+}
+
+.reveal_fadein_letter.active>span {
+  opacity: 1;
 }
