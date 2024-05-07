@@ -5283,11 +5283,11 @@ G
 
 .submenu-line{
   border-bottom: solid 1px;
-  left: calc(-49.5vw + 18%);
+  left: calc(min(92vw, 25rem) / -2 + 1.2rem);
   position: absolute;
   display: block;
-  width: 79vw;
-  margin-top: 37px;
+  width: calc(min(92vw, 25rem) - 3rem);
+  margin-top: 19%;
   opacity: 0;
 }
 
