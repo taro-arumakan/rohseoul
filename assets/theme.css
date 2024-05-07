@@ -4750,6 +4750,11 @@ G
   .header__primary-nav {
     column-gap: 2.5rem;
   }
+  .header__primary-nav-item a {
+    z-index: 1000;
+    position: relative;
+    width: max-content;
+  }
 }
 
 .header__secondary-nav {
