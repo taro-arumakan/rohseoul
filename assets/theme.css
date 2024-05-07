@@ -4735,6 +4735,15 @@ G
     grid-auto-flow: column;
     grid-area: 1 / 1 / 4 / 4;
   }
+  .header__primary-nav-item a {
+    z-index: 1000;
+    position: relative;
+    width: max-content;
+  }
+  .header__primary-nav li:nth-child(0n+3) {
+    grid-row: 3 / span 2;
+    align-self: baseline;
+  }
   .header__primary-nav li:nth-child(1n+4) {
     justify-self: right;
   }
@@ -4749,11 +4758,6 @@ G
 @media screen and (min-width: 1150px) {
   .header__primary-nav {
     column-gap: 2.5rem;
-  }
-  .header__primary-nav-item a {
-    z-index: 1000;
-    position: relative;
-    width: max-content;
   }
 }
 
