@@ -6073,6 +6073,9 @@ line-item-quantity.h-stack {
   width: 100%;
   justify-content: space-between;
 }
+line-item-quantity a {
+  min-width: 1.5rem;
+}
 .quantity-selector-info {
   margin-right: auto;
 }
