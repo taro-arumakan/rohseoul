@@ -11,6 +11,8 @@
       {%- endif -%}
     }
   </style>
+  <script src="{{ 'animate.js' | asset_url }}" defer></script>
+  {{- 'animate.css' | asset_url | stylesheet_tag: preload: true -}}
 
   <images-list class="images-list color-scheme color-scheme--{{ section.settings.color_scheme.id }}">
     {%- if section.settings.background_image or section.settings.mobile_background_image -%}
@@ -32,9 +34,10 @@
 
     <div class="images-list__container container container--md">
       {%- assign images = section.blocks | map: 'settings' | map: 'image' | compact -%}
-
+      {%- assign trans_classes = "reveal_tran_bt,reveal_tran_rl,reveal_tran_lr,reveal_tran_tb" | split: "," %}
       {%- for block in section.blocks -%}
-        <div class="images-list-item">
+        {%-  assign trans_class_index = forloop.index | minus: 1 | modulo: 4 -%}
+        <div class="images-list-item {{ trans_classes[trans_class_index] }}">
           {%- liquid
             if images.size == 0 and forloop.first
               echo 'image' | placeholder_svg_tag: 'images-with-text-scroll__image placeholder'
