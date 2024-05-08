@@ -18,6 +18,11 @@
     "social_instagram": "https:\/\/www.instagram.com\/rohseoul\/",
     "social_youtube": "https:\/\/www.youtube.com\/@rohseoul",
     "favicon": "{{ shop.brand.square_logo }}",
+    "checkout_logo_image": "shopify:\/\/shop_images\/roh.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
+    "checkout_accent_color": "#1f1e1e",
+    "checkout_button_color": "#1f1e1e",
     "content_for_index": [
 
     ],
