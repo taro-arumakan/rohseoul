@@ -1624,8 +1624,9 @@ getAsyncShippingRates_fn = async function(zip, country, province) {
 };
 _formatShippingRates = new WeakSet();
 formatShippingRates_fn = function(shippingRates) {
+  let currency_map = {'JPY': '¥'}
   let formattedShippingRates = shippingRates.map((shippingRate) => {
-    return `<li>${shippingRate["presentment_name"]}: ${shippingRate["currency"]} ${shippingRate["price"]}</li>`;
+    return `<li>${shippingRate["presentment_name"]}: ${currency_map[shippingRate["currency"]] ?? shippingRate["currency"]} ${shippingRate["price"]}</li>`;
   });
   this.resultsElement.innerHTML = `
       <div class="v-stack gap-2">
