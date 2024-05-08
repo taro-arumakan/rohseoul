@@ -86,9 +86,9 @@
             "show_below_gallery": false,
             "icon": "none",
             "title": "Product Care",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>Share some content to your customers about your products.<\/p>",
             "liquid": "",
-            "page": "product-care"
+            "page": "{{ product.metafields.custom.product_care_guide_type.value }}"
           }
         }
       },
@@ -151,7 +151,7 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": "",
-        "title": "Recently viewed products",
+        "title": "Recently viewed",
         "content": ""
       }
     }
