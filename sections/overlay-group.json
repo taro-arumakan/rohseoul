@@ -20,9 +20,10 @@
     },
     "newsletter-popup": {
       "type": "newsletter-popup",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
-        "apparition_delay": 5,
+        "apparition_delay": 3,
         "show_only_on_index": true,
         "hide_for_account_holders": true,
         "show_only_once": false,
