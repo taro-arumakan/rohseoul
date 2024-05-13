@@ -86,7 +86,7 @@
             "show_below_gallery": false,
             "icon": "none",
             "title": "Product Care",
-            "content": "<p>Share some content to your customers about your products.<\/p>",
+            "content": "",
             "liquid": "",
             "page": "{{ product.metafields.custom.product_care_guide_type.value }}"
           }
