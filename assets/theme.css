@@ -4691,12 +4691,26 @@ G
 .header__primary-nav .h6 {
   text-transform: none;
   font-size: 1.125rem;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5rem;
   letter-spacing: 0.05625rem;
 }
+.header-sidebar__main-panel .header-sidebar__linklist .header-sidebar__linklist-button,
+.header__primary-nav .h6,
+.header__dropdown-menu :is(a, summary) {
+  font-size: 1.125rem;
+    font-family: var(--menu-font-family);
+    font-style: var(--menu-font-style);
+    font-weight: var(--menu-font-weight);
+}
 
+.header__primary-nav li:nth-child(1n+4 of .header__primary-nav-item)>a,
+.header-sidebar__main-panel .header-sidebar__linklist>li:nth-of-type(1n+4)>a {
+  font-family: var(--heading-font-family);
+  font-weight: 600;
+  font-style: var(--heading-font-style);
+  font-size: 1rem;
+  line-height: 1.0625rem;
+}
 .header__primary-nav-item:before {
   content: attr(data-title);
   transform-origin: var(--transform-origin-start);
@@ -5134,7 +5148,7 @@ G
 .header-sidebar__scroller {
   padding-block-end: var(--drawer-body-padding-block);
   padding-inline-start: var(--drawer-body-padding-inline);
-  padding-inline-end: var(--drawer-body-padding-inline);
+  padding-inline-end: 0.25rem;
   overflow-y: auto;
 }
 
@@ -5286,11 +5300,6 @@ G
 
 .header-sidebar__main-panel .header-sidebar__linklist>li:nth-of-type(0n+4) {
   margin-top: 6.75rem;
-}
-.header-sidebar__main-panel .header-sidebar__linklist>li:nth-of-type(1n+4)>a {
-  font-size: 1.25rem;
-  font-weight: 600;
-  line-height: 1.0625rem;
 }
 
 .submenu-line{

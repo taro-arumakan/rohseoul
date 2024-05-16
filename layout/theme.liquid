@@ -29,7 +29,22 @@
       <link rel="preload" href="{{ settings.text_font | font_url }}" as="font" type="font/woff2" crossorigin>
     {%- endunless -%}
 
+
+    {%- comment -%} custom fonts referenced in css-variables.liquid {%- endcomment -%}
     <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+
+    <style>
+      @font-face {
+        font-family: "Replica";
+        src: url("{{ 'Replica-Regular.ttf' | asset_url }}") format("truetype");
+        font-weight: normal;
+      }
+      @font-face {
+        font-family: "Replica";
+        src: url("{{ 'Replica-Bold.ttf' | asset_url }}") format("truetype");
+        font-weight: bold;
+      }
+    </style>
 
     {%- render 'social-meta-tags' -%}
     {%- render 'microdata-schema' -%}
