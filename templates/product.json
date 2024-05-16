@@ -25,8 +25,8 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "dropdown",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
+            "swatch_selector_style": "block_swatch",
+            "variant_image_options": "カラー",
             "size_chart_page": ""
           }
         },
@@ -114,7 +114,7 @@
         "center_basic_info": false,
         "desktop_media_layout": "grid",
         "desktop_media_grid_gap": 30,
-        "mobile_controls": "dots",
+        "mobile_controls": "thumbnails",
         "enable_media_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
