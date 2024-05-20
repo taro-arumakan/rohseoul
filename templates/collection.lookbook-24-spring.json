@@ -150,31 +150,8 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_fHkcWQ",
-        "image_with_text_c7h696",
-        "image_with_text_CqGkQH"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_bGTg9p": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_mLNhjr": {
+        },
+        "image_with_text_MmhVNk": {
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/24_Spring_LB1-_4.jpg",
@@ -184,32 +161,13 @@
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_M8VAWF": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_x6c9UG": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_mLNhjr",
-        "image_with_text_M8VAWF",
-        "image_with_text_x6c9UG"
+        "image_with_text_fHkcWQ",
+        "image_with_text_c7h696",
+        "image_with_text_CqGkQH",
+        "image_with_text_MmhVNk"
       ],
       "settings": {
         "color_scheme": "",
@@ -282,31 +240,8 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_VcV9ME",
-        "image_with_text_ccHHVh",
-        "image_with_text_Kz7ACy"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_7jnNmt": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_e6X8AJ": {
+        },
+        "image_with_text_kRtcPg": {
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/24_Spring_LB2-_4.jpg",
@@ -316,32 +251,13 @@
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_Q38WNn": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_dfhgMm": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_e6X8AJ",
-        "image_with_text_Q38WNn",
-        "image_with_text_dfhgMm"
+        "image_with_text_VcV9ME",
+        "image_with_text_ccHHVh",
+        "image_with_text_Kz7ACy",
+        "image_with_text_kRtcPg"
       ],
       "settings": {
         "color_scheme": "",
@@ -414,66 +330,24 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_EnLUcH",
-        "image_with_text_QLtYkF",
-        "image_with_text_8x43yz"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_WdbKqR": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_NpNTkg": {
+        },
+        "image_with_text_LWEGD9": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24_Spring_LB3-_4.jpg",
+            "image": "shopify:\/\/shop_images\/24_Spring_LB3-_3.jpg",
             "title": "#3-4",
             "heading_tag": "h5",
             "content": "<p>Mini kiki messenger bag Wrinkled black<\/p><p>Dall platform mary jane shoes Black<\/p>",
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_DqLgyJ": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_BBpn3F": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_NpNTkg",
-        "image_with_text_DqLgyJ",
-        "image_with_text_BBpn3F"
+        "image_with_text_EnLUcH",
+        "image_with_text_QLtYkF",
+        "image_with_text_8x43yz",
+        "image_with_text_LWEGD9"
       ],
       "settings": {
         "color_scheme": "",
@@ -546,31 +420,8 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_nYH9NX",
-        "image_with_text_KfUAeC",
-        "image_with_text_mk8xWa"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_zDkiA7": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_XxACPd": {
+        },
+        "image_with_text_KDN3Lm": {
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/24_Spring_LB4-_4.jpg",
@@ -580,32 +431,13 @@
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_rgU8zw": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_zpqtKP": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_XxACPd",
-        "image_with_text_rgU8zw",
-        "image_with_text_zpqtKP"
+        "image_with_text_nYH9NX",
+        "image_with_text_KfUAeC",
+        "image_with_text_mk8xWa",
+        "image_with_text_KDN3Lm"
       ],
       "settings": {
         "color_scheme": "",
@@ -678,31 +510,8 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_Xeq7wP",
-        "image_with_text_AVwrzx",
-        "image_with_text_g6W36p"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_mnWPQL": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_78qXQD": {
+        },
+        "image_with_text_zX9j3x": {
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/24_Spring_LB5-_4.jpg",
@@ -712,32 +521,13 @@
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_KUU7xk": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_RwmaNg": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_78qXQD",
-        "image_with_text_KUU7xk",
-        "image_with_text_RwmaNg"
+        "image_with_text_Xeq7wP",
+        "image_with_text_AVwrzx",
+        "image_with_text_g6W36p",
+        "image_with_text_zX9j3x"
       ],
       "settings": {
         "color_scheme": "",
@@ -810,31 +600,8 @@
             "link_url": "",
             "link_text": ""
           }
-        }
-      },
-      "block_order": [
-        "image_with_text_pJ3iwp",
-        "image_with_text_yUxKcw",
-        "image_with_text_mEKJjH"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "multi_column_WzKcby": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_e4fQ9G": {
+        },
+        "image_with_text_6tzcWk": {
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/24_Spring_LB6-_4.jpg",
@@ -844,32 +611,13 @@
             "link_url": "",
             "link_text": ""
           }
-        },
-        "image_with_text_yiTE6Q": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_H9mYLY": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "",
-            "heading_tag": "h5",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
         }
       },
       "block_order": [
-        "image_with_text_e4fQ9G",
-        "image_with_text_yiTE6Q",
-        "image_with_text_H9mYLY"
+        "image_with_text_pJ3iwp",
+        "image_with_text_yUxKcw",
+        "image_with_text_mEKJjH",
+        "image_with_text_6tzcWk"
       ],
       "settings": {
         "color_scheme": "",
@@ -1048,22 +796,16 @@
     "multi_column_8DXQtm",
     "rich_text_AzFigN",
     "multi_column_9mpEmQ",
-    "multi_column_bGTg9p",
     "rich_text_gATbEC",
     "multi_column_eeDAnn",
-    "multi_column_7jnNmt",
     "rich_text_9UBray",
     "multi_column_mXkcCz",
-    "multi_column_WdbKqR",
     "rich_text_b7aGHh",
     "multi_column_EC4TfK",
-    "multi_column_zDkiA7",
     "rich_text_7WDNqJ",
     "multi_column_eFtTdr",
-    "multi_column_mnWPQL",
     "rich_text_fJbFxh",
     "multi_column_CTx4fy",
-    "multi_column_WzKcby",
     "rich_text_XR9Nym",
     "multi_column_RhfHTi",
     "rich_text_BFQk4E",
