@@ -26,7 +26,12 @@
                     {% liquid
                       if form.errors
                         assign form_errors = form.errors | default_errors
-                        render 'banner', status: 'error', content: form_errors
+                        if form_errors contains 'メールアドレスを認証するために'
+                          assign banner_status = 'success'
+                        else
+                          assign banner_status = 'error'
+                        endif
+                        render 'banner', status: banner_status, content: form_errors
                       endif
 
                       if request.locale.iso_code == 'ja'
