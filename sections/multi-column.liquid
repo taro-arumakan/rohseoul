@@ -82,7 +82,8 @@
                     <p class="{{ block.settings.heading_tag }} reveal_fadein_letter">{{ block.settings.title }}</p>
                   {%- endif -%}
 
-                  <div class="reveal_tran_bt">
+                  {%-  assign trans_class_index_another = forloop.index | plus: 1 | modulo: 4 -%}
+                  <div class="{{ trans_classes[trans_class_index_another] }}">
                     {{- block.settings.content -}}
                   </div>
 
