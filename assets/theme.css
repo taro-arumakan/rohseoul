@@ -6061,10 +6061,15 @@ G
 
 .variant-picker__option {
   display: flex;
+  flex-direction: column;
 }
 
 .variant-picker__option-info {
   margin-right: 20px;
+  width: max-content;
+}
+.variant-picker__option-info legend {
+  width: 3rem;
 }
 
 .variant-picker__option > .relative {
