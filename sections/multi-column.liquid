@@ -23,6 +23,9 @@
       }
     }
   </style>
+  <script src="{{ 'animate.js' | asset_url }}" defer></script>
+  {{- 'animate.css' | asset_url | stylesheet_tag: preload: true -}}
+  {%- assign trans_classes = "reveal_tran_bt,reveal_tran_rl,reveal_tran_lr,reveal_tran_tb" | split: "," %}
 
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
@@ -33,7 +36,8 @@
 
         <multi-column class="multi-column {% unless section.settings.stack_on_mobile %}scroll-area snap-x bleed md:unbleed{% endunless %}">
           {%- for block in section.blocks -%}
-            <div class="multi-column__item {% if section.settings.overlap_image and block.settings.title != blank %}multi-column__item--overlap{% endif %} snap-center group" {{ block.shopify_attributes }}>
+            {%-  assign trans_class_index = forloop.index | minus: 1 | modulo: 4 -%}
+            <div class="multi-column__item {{ trans_classes[trans_class_index] }} {% if section.settings.overlap_image and block.settings.title != blank %}multi-column__item--overlap{% endif %} snap-center group" {{ block.shopify_attributes }}>
               {%- capture sizes_attribute -%}
                 (max-width: 699px) 53vw, (max-width: 999px) 38vw, calc((100vw - 3rem * 2) / {{ section.settings.columns_per_row }})
               {%- endcapture -%}
@@ -75,10 +79,12 @@
               {%- if block.settings.title != blank or block.settings.content != blank or block.settings.link_text != blank -%}
                 <div class="prose text-{{ section.settings.text_alignment }}">
                   {%- if block.settings.title != blank -%}
-                    <p class="{{ block.settings.heading_tag }}">{{ block.settings.title }}</p>
+                    <p class="{{ block.settings.heading_tag }} reveal_fadein_letter">{{ block.settings.title }}</p>
                   {%- endif -%}
 
-                  {{- block.settings.content -}}
+                  <div class="reveal_tran_bt">
+                    {{- block.settings.content -}}
+                  </div>
 
                   {%- if block.settings.link_text != blank -%}
                     <a href="{{ block.settings.link_url }}" class="link">{{ block.settings.link_text | escape }}</a>
