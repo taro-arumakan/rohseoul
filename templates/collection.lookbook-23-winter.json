@@ -79,6 +79,9 @@
         "image_with_text_yx6t7H",
         "image_with_text_Mf4qUd"
       ],
+      "custom_css": [
+        ".multi-column {row-gap: 0;}"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
