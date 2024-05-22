@@ -219,12 +219,12 @@
   "customer": {
     "account": {
       "title": "あなたのアカウント",
-      "primary_address": "プライマリ住所",
+      "primary_address": "デフォルトの住所",
       "manage_addresses": "管理",
       "tagline": "注文と個人情報",
       "orders": "注文履歴",
       "logout": "ログアウト",
-      "no_orders": "あなたはまだ何も注文していません",
+      "no_orders": "まだ注文はありません",
       "continue_shopping": "ショッピングを開始する"
     },
     "login": {

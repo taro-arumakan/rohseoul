@@ -1273,7 +1273,8 @@ height-observer {
   -webkit-appearance: none;
   appearance: none;
   padding: var(--input-padding-block) var(--input-padding-inline);
-  background: #F2F1ED;
+  background: rgb(var(--background));
+  border-width: 1px;
   color: rgb(var(--input-text-color, var(--text-color)));
   text-align: start;
   width: 100%;

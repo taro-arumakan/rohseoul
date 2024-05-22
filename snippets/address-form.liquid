@@ -43,7 +43,8 @@ Supported parameters
         {%- render 'input', name: 'address[zip]', label: zip_label, value: form.zip, autocomplete: 'postal-code', autocapitalize: 'characters', id_prefix: address.id -%}
 
         <country-selector class="contents" country="{{ form.country | escape }}" province="{{ form.province | escape }}">
-          {%- render 'select', name: 'address[country]', label: country_label, options: all_country_option_tags, autocomplete: 'country', id_prefix: address.id -%}
+          {%- assign country_options =  country_option_tags | replace: 'value="Japan"', 'value="Japan" selected' -%}
+          {%- render 'select', name: 'address[country]', label: country_label, options: country_options, autocomplete: 'country', id_prefix: address.id -%}
           {%- render 'select', name: 'address[province]', label: province_label, autocomplete: 'address-level1', id_prefix: address.id -%}
         </country-selector>
 
