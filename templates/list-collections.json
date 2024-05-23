@@ -6,8 +6,18 @@
         "color_scheme": "",
         "show_title": false,
         "collections": [
+          "lookbook-summer-24",
+          "campaign-summer-24",
           "lookbook-spring-24",
-          "campaign-spring-24"
+          "campaign-spring-24",
+          "lookbook-winter-23",
+          "campaign-winter-23",
+          "lookbook-fall-23",
+          "campaign-fall-23",
+          "lookbook-summer-23",
+          "campaign-summer-23",
+          "lookbook-spring-23",
+          "campaign-spring-23"
         ],
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
