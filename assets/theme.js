@@ -5365,7 +5365,7 @@ switchPanel_fn = async function(fromPanel, toPanel) {
     [toPanel, { opacity: 1 }, { duration: 0 }],
     [toPanel.querySelectorAll(listSelector), { opacity: [0, 1], transform: ["translateY(8px)", "translateY(0)"] }, { duration: 0.15, at: "-0.15", delay: window.themeVariables.settings.staggerMenuApparition ? stagger3(0.1) : 0 }],
     [toPanel.querySelector(".header-sidebar__promo"), { opacity: [0, 1] }, { duration: 0.45 }],
-    [this.querySelector(".submenu-line"), { opacity: [0, 1], transform: ["translateY(8px)", "translateY(0)"] }, { duration: 0.15, at: "-0.15", delay: window.themeVariables.settings.staggerMenuApparition ? stagger3(0.1) : 0 }]
+    [this.querySelector(".submenu-line"), { opacity: [0, 1], transform: ["translateX(200px)", "translateX(0)"] }, { duration: 0.5, at: "-0.15", delay: window.themeVariables.settings.staggerMenuApparition ? stagger3(0.1) : 0 }]
   ]);
 };
 if (!window.customElements.get("x-header")) {
