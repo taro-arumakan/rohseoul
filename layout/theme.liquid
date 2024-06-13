@@ -137,7 +137,8 @@
       {%- endcomment -%}
     </span>
 
-    {%- if request.page_type == 'page' %}
+    {% assign black_header_paths = '/pages/about-ideal,/pages/about-methodology,/pages/stores' | split: ',' %}
+    {%- if black_header_paths contains request.path %}
       {%- sections 'header-group-page' -%}
       {%- sections 'overlay-group' -%}
     {%- elsif request.page_type != 'password' -%}

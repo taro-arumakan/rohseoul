@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "show_title": true,
         "page_width": "xs"
       }
