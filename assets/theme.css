@@ -7856,3 +7856,7 @@ sale-price.h4 {
   width: 80%;
   margin-right: auto;
 }
+
+.needsclick>a>svg {
+  display: none;  
+}
