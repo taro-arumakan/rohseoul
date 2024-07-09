@@ -2243,7 +2243,6 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 
 @media screen and (pointer: fine) {
   .product-card__image--secondary {
-    opacity: 0;
     visibility: visible;
   }
 
@@ -5869,6 +5868,14 @@ G
   cursor: var(--cursor-zoom-in-svg-url) 18 18, zoom-in;
 }
 
+@media screen and (max-width: 999px) {
+  .product-gallery__media {
+    aspect-ratio: 3 / 4;
+    display: flex;
+    align-items: center;
+  }
+}
+
 .product-gallery__media > * {
   width: 100%;
 }
@@ -5883,7 +5890,7 @@ G
   grid-auto-columns: var(--product-gallery-thumbnail-size);
   grid-auto-flow: var(--product-gallery-thumbnail-list-grid-auto-flow, column);
   align-content: start;
-  align-items: start;
+  align-items: center;
   gap: var(--product-gallery-thumbnail-list-gap);
   max-height: var(--product-gallery-thumbnail-list-max-height, none);
   scroll-snap-type: both mandatory;
