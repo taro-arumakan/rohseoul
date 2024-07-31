@@ -22,6 +22,7 @@
         "image_size": "auto",
         "image": "shopify:\/\/shop_images\/resort24_pc_1w.jpg",
         "mobile_image": "shopify:\/\/shop_images\/resort24_m_1w.jpg",
+        "image_url": "shopify:\/\/products\/pulpy-hobo-bag",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
