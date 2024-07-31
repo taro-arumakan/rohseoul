@@ -15,6 +15,23 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_WqUrY6": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/resort24_pc_1w.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/resort24_m_1w.jpg",
+        "allow_transparent_header": true,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "slideshow_a68FCR": {
       "type": "slideshow",
       "blocks": {
@@ -245,6 +262,7 @@
         "image_HprrtD",
         "image_dj98yp"
       ],
+      "disabled": true,
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": false,
@@ -276,7 +294,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": true,
         "products_per_row_mobile": "2",
@@ -289,6 +307,7 @@
   },
   "order": [
     "newsletter",
+    "image_with_text_overlay_WqUrY6",
     "slideshow_a68FCR",
     "featured_collections_43UmNL"
   ]
