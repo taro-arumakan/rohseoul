@@ -7869,3 +7869,10 @@ sale-price.h4 {
 .needsclick>a>svg {
   display: none;  
 }
+
+/* Klaviyo */
+.needsclick button>img {
+  overflow: hidden;
+  border-radius: 3%;
+  filter: drop-shadow(10px 10px 1rem rgb(10, 20, 70, 0.5))
+}
