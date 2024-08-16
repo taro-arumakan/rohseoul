@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-search",
+      "custom_css": [
+        ".empty-state {padding-block: 3.25rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "show_sort_by": true,
