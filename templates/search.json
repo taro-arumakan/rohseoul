@@ -3,7 +3,7 @@
     "main": {
       "type": "main-search",
       "custom_css": [
-        ".empty-state {padding-block: 3.25rem;}"
+        "@media screen and (min-width: 1000px) {.empty-state {padding-block: 7.25rem;}}"
       ],
       "settings": {
         "color_scheme": "",

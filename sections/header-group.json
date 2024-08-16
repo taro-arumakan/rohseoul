@@ -26,6 +26,10 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header__dropdown-menu {border-color: rgb(0 0 0 \/ 0);}",
+        "nav.header__primary-nav > ul > li > details > ul > li > details > ul {inset-inline-start: 10%; }"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "enable_sticky": true,
