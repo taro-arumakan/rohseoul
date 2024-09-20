@@ -46,21 +46,20 @@ Supported variables
           {{- complementary_products -}}
         </div>
       {%- else -%}
+        {% comment %}       
         <div class="sm-max:hidden">
           <scroll-carousel id="{{ carousel_id }}" class="complementary-products__product-list complementary-products__product-list--carousel scroll-area snap-x">
             {{- complementary_products -}}
           </scroll-carousel>
         </div>
-
-        <div class="v-stack gap-5 sm:hidden">
+        {% endcomment %}
+        <div class="v-stack gap-5">
           {%- assign carousel_mobile_id = 'complementary-products-mobile-carousel-' | append: block.id -%}
-
           <scroll-carousel id="{{ carousel_mobile_id }}" class="complementary-products__product-list complementary-products__product-list--carousel bleed scroll-area snap-x">
             {%- for product in recommendations.products -%}
-              {%- render 'product-card', product: product, show_quick_buy: block.settings.show_quick_buy, show_badges: false, show_vendor: false, show_rating: false, show_secondary_image: false, show_swatches: false -%}
+              {%- render 'product-card', product: product, show_quick_buy: block.settings.show_quick_buy, show_badges: false, show_vendor: false, show_rating: false, show_secondary_image: true, show_swatches: true -%}
             {%- endfor -%}
           </scroll-carousel>
-
           {%- if recommendations.products_count > 1 -%}
             <carousel-navigation aria-controls="{{ carousel_mobile_id }}" class="page-dots">
               {%- for i in (1..recommendations.products_count) -%}
