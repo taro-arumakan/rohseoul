@@ -57,6 +57,16 @@
             "payment_button_text_color": ""
           }
         },
+        "complementary_products_DjzawD": {
+          "type": "complementary_products",
+          "settings": {
+            "title": "Other Variants",
+            "products_count": 1,
+            "show_below_gallery": false,
+            "stack_products": false,
+            "show_quick_buy": false
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -101,6 +111,7 @@
         "quantity_selector",
         "payment_terms",
         "buy_buttons",
+        "complementary_products_DjzawD",
         "separator",
         "description",
         "accordion_PwXCdf",
