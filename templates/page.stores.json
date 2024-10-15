@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -23,8 +32,8 @@
         "container-width": "4",
         "theme": "grayscale",
         "heading": "ROH SEOUL フラッグシップストア",
-        "address": "<p>Instagram: @rohseoul.archive<br\/>TEL: 02-323-2881<br\/>住所: ソウル市麻浦区西橋洞395-120 1-2階<br\/><br\/><\/p>",
-        "hours": "<p>Opening hours:<br\/>水曜日 - 日曜日 11:00 - 19:00<br\/>(休憩時間 11:30 - 12:40)<\/p><p>*祝日休み<\/p>",
+        "address": "<p>Instagram: @rohseoul.archive<br/>TEL: 02-323-2881<br/>住所: ソウル市麻浦区西橋洞395-120 1-2階<br/><br/></p>",
+        "hours": "<p>Opening hours:<br/>水曜日 - 日曜日 11:00 - 19:00<br/>(休憩時間 11:30 - 12:40)</p><p>*祝日休み</p>",
         "api-key": "AIzaSyDSXQQYoDNUleaqPLBW2_c-iOd1VI3qhI4",
         "map-address": "395-120 Seogyo-dong"
       }
@@ -41,8 +50,8 @@
         "container-width": "4",
         "theme": "grayscale",
         "heading": "ROH SEOUL 新世界センタムシティ店",
-        "address": "<p>Instagram: @rohseoul.busan<\/p><p>TEL: 051-745-1593<\/p><p>住所: 釜山市海雲台区センタムナムデロ35 4階<\/p><p><br\/><\/p><p>営業時間 ：<\/p><p>月曜日 - 木曜日 10時30分 - 20時 金曜日 - 日曜日 10時30分 - 20時30分<\/p><p>百貨店休業日休館日休館<\/p>",
-        "hours": "<p>Monday - Friday<br\/>10am - 6pm<br\/><br\/>Saturday - Sunday<br\/>12pm - 5pm<\/p>",
+        "address": "<p>Instagram: @rohseoul.busan</p><p>TEL: 051-745-1593</p><p>住所: 釜山市海雲台区センタムナムデロ35 4階</p><p><br/></p><p>営業時間 ：</p><p>月曜日 - 木曜日 10時30分 - 20時 金曜日 - 日曜日 10時30分 - 20時30分</p><p>百貨店休業日休館日休館</p>",
+        "hours": "<p>Monday - Friday<br/>10am - 6pm<br/><br/>Saturday - Sunday<br/>12pm - 5pm</p>",
         "api-key": "",
         "map-address": "391 Sunrise Blvd, Los Angeles"
       }

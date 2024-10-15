@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -124,10 +133,10 @@
         "image_with_text_fHkcWQ": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB1-1.jpg",
+            "image": "shopify://shop_images/23_Spring_LB1-1.jpg",
             "title": "#1-1",
             "heading_tag": "h5",
-            "content": "<p>Juty medium shoulder bag Umber<\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p>Juty medium shoulder bag Umber</p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -135,10 +144,10 @@
         "image_with_text_c7h696": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB1-2.jpg",
+            "image": "shopify://shop_images/23_Spring_LB1-2.jpg",
             "title": "#1-2",
             "heading_tag": "h5",
-            "content": "<p>Mini peanut bag Patent Ivory<\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p>Mini peanut bag Patent Ivory</p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -146,10 +155,10 @@
         "image_with_text_CqGkQH": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB1-3.jpg",
+            "image": "shopify://shop_images/23_Spring_LB1-3.jpg",
             "title": "#1-3",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/tin-square-tote-bag\" title=\"Tin square tote bag\">Tin square tote bag Glossy chocolate<\/a><\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p><a href=\"/products/tin-square-tote-bag\" title=\"Tin square tote bag\">Tin square tote bag Glossy chocolate</a></p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -157,10 +166,10 @@
         "image_with_text_UaLpcg": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB1-4.jpg",
+            "image": "shopify://shop_images/23_Spring_LB1-4.jpg",
             "title": "#1-4",
             "heading_tag": "h5",
-            "content": "<p>Sandwich bag Patent Van Dyke brown<\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p>Sandwich bag Patent Van Dyke brown</p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -214,10 +223,10 @@
         "image_with_text_VcV9ME": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB2-1.jpg",
+            "image": "shopify://shop_images/23_Spring_LB2-1.jpg",
             "title": "#2-1",
             "heading_tag": "h5",
-            "content": "<p>Mini peanut bag Patent Black<\/p><p>Danghye mary jane shoes Black<\/p>",
+            "content": "<p>Mini peanut bag Patent Black</p><p>Danghye mary jane shoes Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -225,10 +234,10 @@
         "image_with_text_ccHHVh": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB2-2.jpg",
+            "image": "shopify://shop_images/23_Spring_LB2-2.jpg",
             "title": "#2-2",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/tin-square-tote-bag\" title=\"Tin square tote bag\">Tin square tote bag Glossy black<\/a><\/p><p>Danghye mary jane shoes Black<\/p>",
+            "content": "<p><a href=\"/products/tin-square-tote-bag\" title=\"Tin square tote bag\">Tin square tote bag Glossy black</a></p><p>Danghye mary jane shoes Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -236,10 +245,10 @@
         "image_with_text_Kz7ACy": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB2-3.jpg",
+            "image": "shopify://shop_images/23_Spring_LB2-3.jpg",
             "title": "#2-3",
             "heading_tag": "h5",
-            "content": "<p>Kiki messenger bag Wrinkled Black<\/p><p>Puzzle sandals Ivory<\/p>",
+            "content": "<p>Kiki messenger bag Wrinkled Black</p><p>Puzzle sandals Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -247,10 +256,10 @@
         "image_with_text_M33BAH": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB2-4.jpg",
+            "image": "shopify://shop_images/23_Spring_LB2-4.jpg",
             "title": "#2-4",
             "heading_tag": "h5",
-            "content": "<p>Pebble mini tote bag Wrinkled Van Dyke brown<\/p><p>Puzzle sandals Ivory<\/p>",
+            "content": "<p>Pebble mini tote bag Wrinkled Van Dyke brown</p><p>Puzzle sandals Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -304,10 +313,10 @@
         "image_with_text_EnLUcH": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB3-1.jpg",
+            "image": "shopify://shop_images/23_Spring_LB3-1.jpg",
             "title": "#3-1",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/tin-square-mini-tote\" title=\"Tin square mini tote\">Tin square mini tote bag Glossy black<\/a><\/p><p>Danghye flat shoes Ivory<\/p>",
+            "content": "<p><a href=\"/products/tin-square-mini-tote\" title=\"Tin square mini tote\">Tin square mini tote bag Glossy black</a></p><p>Danghye flat shoes Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -315,10 +324,10 @@
         "image_with_text_QLtYkF": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB3-2.jpg",
+            "image": "shopify://shop_images/23_Spring_LB3-2.jpg",
             "title": "#3-2",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/pebble-medium-shoulder-bag\" title=\"Pebble medium shoulder bag\">Pebble Medium Shoulder bag Wrinkled Van Dyke brown<\/a><\/p><p>Danghye flat shoes Ivory<\/p>",
+            "content": "<p><a href=\"/products/pebble-medium-shoulder-bag\" title=\"Pebble medium shoulder bag\">Pebble Medium Shoulder bag Wrinkled Van Dyke brown</a></p><p>Danghye flat shoes Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -326,10 +335,10 @@
         "image_with_text_8x43yz": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB3-3.jpg",
+            "image": "shopify://shop_images/23_Spring_LB3-3.jpg",
             "title": "#3-3",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/mini-around-hobo-bag\" title=\"Mini around hobo bag\">Mini around hobo bag Black<\/a><\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p><a href=\"/products/mini-around-hobo-bag\" title=\"Mini around hobo bag\">Mini around hobo bag Black</a></p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -337,10 +346,10 @@
         "image_with_text_RQUh3E": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB3-4.jpg",
+            "image": "shopify://shop_images/23_Spring_LB3-4.jpg",
             "title": "#3-4",
             "heading_tag": "h5",
-            "content": "<p>Sandwich bag Patent Black<\/p><p>Puzzle sandals Black<\/p>",
+            "content": "<p>Sandwich bag Patent Black</p><p>Puzzle sandals Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -348,10 +357,10 @@
         "image_with_text_3KpNai": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB3-5.jpg",
+            "image": "shopify://shop_images/23_Spring_LB3-5.jpg",
             "title": "#3-5",
             "heading_tag": "h5",
-            "content": "<p>Mini bell tote bag Ivory<\/p><p>Danghye flat shoes Ivory<\/p>",
+            "content": "<p>Mini bell tote bag Ivory</p><p>Danghye flat shoes Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -406,10 +415,10 @@
         "image_with_text_nYH9NX": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB4-1.jpg",
+            "image": "shopify://shop_images/23_Spring_LB4-1.jpg",
             "title": "#4-1",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/mini-around-hobo-bag\" title=\"Mini around hobo bag\">Mini around hobo bag Ivory<\/a><\/p><p>Round platform clogs Ivory<\/p>",
+            "content": "<p><a href=\"/products/mini-around-hobo-bag\" title=\"Mini around hobo bag\">Mini around hobo bag Ivory</a></p><p>Round platform clogs Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -417,10 +426,10 @@
         "image_with_text_KfUAeC": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB4-2.jpg",
+            "image": "shopify://shop_images/23_Spring_LB4-2.jpg",
             "title": "#4-2",
             "heading_tag": "h5",
-            "content": "<p>Rowie leather shoulder bag Jaune beige<\/p><p>Round platform clogs Ivory<\/p>",
+            "content": "<p>Rowie leather shoulder bag Jaune beige</p><p>Round platform clogs Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -428,10 +437,10 @@
         "image_with_text_mk8xWa": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB4-3.jpg",
+            "image": "shopify://shop_images/23_Spring_LB4-3.jpg",
             "title": "#4-3",
             "heading_tag": "h5",
-            "content": "<p>Rolling tote bag Ivory<\/p><p>Danghye flat shoes Black<\/p>",
+            "content": "<p>Rolling tote bag Ivory</p><p>Danghye flat shoes Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -439,10 +448,10 @@
         "image_with_text_9qwKL8": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB4-4.jpg",
+            "image": "shopify://shop_images/23_Spring_LB4-4.jpg",
             "title": "#4-4",
             "heading_tag": "h5",
-            "content": "<p>Aline medium Shoulder bag Black<\/p><p>Danghye flat shoes Black<\/p>",
+            "content": "<p>Aline medium Shoulder bag Black</p><p>Danghye flat shoes Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -496,10 +505,10 @@
         "image_with_text_Xeq7wP": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB5-1.jpg",
+            "image": "shopify://shop_images/23_Spring_LB5-1.jpg",
             "title": "#5-1",
             "heading_tag": "h5",
-            "content": "<p>Rolling tote bag Naples butter<\/p><p>Rowie Mary jane shoes Fabric Black<\/p>",
+            "content": "<p>Rolling tote bag Naples butter</p><p>Rowie Mary jane shoes Fabric Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -507,10 +516,10 @@
         "image_with_text_AVwrzx": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB5-2.jpg",
+            "image": "shopify://shop_images/23_Spring_LB5-2.jpg",
             "title": "#5-2",
             "heading_tag": "h5",
-            "content": "<p>Mini bell tote bag Naples butter<\/p><p>Rowie Mary jane shoes Fabric Black<\/p>",
+            "content": "<p>Mini bell tote bag Naples butter</p><p>Rowie Mary jane shoes Fabric Black</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -518,10 +527,10 @@
         "image_with_text_g6W36p": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB5-3.jpg",
+            "image": "shopify://shop_images/23_Spring_LB5-3.jpg",
             "title": "#5-3",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/tin-square-mini-tote\" title=\"Tin square mini tote\">Tin square mini tote bag Glossy chocolate<\/a><\/p><p>Danghye mary jane shoes Ivory<\/p>",
+            "content": "<p><a href=\"/products/tin-square-mini-tote\" title=\"Tin square mini tote\">Tin square mini tote bag Glossy chocolate</a></p><p>Danghye mary jane shoes Ivory</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -529,10 +538,10 @@
         "image_with_text_f3igYG": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Spring_LB5-4.jpg",
+            "image": "shopify://shop_images/23_Spring_LB5-4.jpg",
             "title": "#5-4",
             "heading_tag": "h5",
-            "content": "<p><a href=\"\/products\/aline-large-shoulder-bag\" title=\"Aline large shoulder bag\">Aline Large Shoulder bag Jaune beige<\/a><\/p><p>Danghye mary jane shoes Ivory<\/p>",
+            "content": "<p><a href=\"/products/aline-large-shoulder-bag\" title=\"Aline large shoulder bag\">Aline Large Shoulder bag Jaune beige</a></p><p>Danghye mary jane shoes Ivory</p>",
             "link_url": "",
             "link_text": ""
           }

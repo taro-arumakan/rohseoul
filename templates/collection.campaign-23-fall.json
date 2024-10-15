@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -48,7 +57,7 @@
           "settings": {
             "title": "ROH SEOUL CAMPAIGN:",
             "heading_tag": "h4",
-            "content": "<h4>fall 23<\/h4>",
+            "content": "<h4>fall 23</h4>",
             "link_url": "",
             "link_text": ""
           }
@@ -68,7 +77,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h3",
-            "content": "<p>ローソウルのFALL 23シーズンは、色の配合、素材の微妙な感性、そして体と調和する形など、それぞれのデザイン要素が調和して調和してどれほど驚くほど美しい影響を私たちに及ぼすかを示す研究の結果です。繊細なディテールが調和した全体は、単に個々の要素の合計を超えた美しさを与えます。この完成体が私たちの日常の中で自然に溶け込んで、美しい季節を作り過ぎる姿を楽しみにしています。<\/p>",
+            "content": "<p>ローソウルのFALL 23シーズンは、色の配合、素材の微妙な感性、そして体と調和する形など、それぞれのデザイン要素が調和して調和してどれほど驚くほど美しい影響を私たちに及ぼすかを示す研究の結果です。繊細なディテールが調和した全体は、単に個々の要素の合計を超えた美しさを与えます。この完成体が私たちの日常の中で自然に溶け込んで、美しい季節を作り過ぎる姿を楽しみにしています。</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -99,61 +108,61 @@
         "image_QMggTd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_1.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_1.jpg"
           }
         },
         "image_HeTtCA": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_2.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_2.jpg"
           }
         },
         "image_8M9aVX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_3.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_3.jpg"
           }
         },
         "image_Fekat3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_4.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_4.jpg"
           }
         },
         "image_XQ3DkT": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_5.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_5.jpg"
           }
         },
         "image_wWAAWW": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_6.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_6.jpg"
           }
         },
         "image_bcD9Fq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_7.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_7.jpg"
           }
         },
         "image_4xt3Bj": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_8.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_8.jpg"
           }
         },
         "image_NJzrda": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_9.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_9.jpg"
           }
         },
         "image_Q7xpJd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_10.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_10.jpg"
           }
         }
       },
@@ -182,61 +191,61 @@
         "image_HcLGpj": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_11.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_11.jpg"
           }
         },
         "image_VERwaW": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_12.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_12.jpg"
           }
         },
         "image_txXzGw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_13.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_13.jpg"
           }
         },
         "image_iqibqt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_14.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_14.jpg"
           }
         },
         "image_WF9Cb9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_15.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_15.jpg"
           }
         },
         "image_f4TkkW": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_16.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_16.jpg"
           }
         },
         "image_RjRPqf": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_17.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_17.jpg"
           }
         },
         "image_FhRypN": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_18.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_18.jpg"
           }
         },
         "image_8iAmCz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_19.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_19.jpg"
           }
         },
         "image_nbHrmR": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_20.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_20.jpg"
           }
         }
       },
@@ -265,61 +274,61 @@
         "image_RyCNaQ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_21.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_21.jpg"
           }
         },
         "image_Hj3KiL": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_22.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_22.jpg"
           }
         },
         "image_JNcXVK": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_23.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_23.jpg"
           }
         },
         "image_AdJqpX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_24.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_24.jpg"
           }
         },
         "image_i4TLqe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_25.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_25.jpg"
           }
         },
         "image_HYzViz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_26.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_26.jpg"
           }
         },
         "image_pjCUj9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_27.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_27.jpg"
           }
         },
         "image_kAmmaW": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_28.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_28.jpg"
           }
         },
         "image_yX3HLt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_29.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_29.jpg"
           }
         },
         "image_UGh83c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_30.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_30.jpg"
           }
         }
       },
@@ -348,19 +357,19 @@
         "image_JDPebg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_31.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_31.jpg"
           }
         },
         "image_bJHQcE": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_32.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_32.jpg"
           }
         },
         "image_Dwe3Cc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_Fall_CP_33.jpg"
+            "image": "shopify://shop_images/23_Fall_CP_33.jpg"
           }
         }
       },
