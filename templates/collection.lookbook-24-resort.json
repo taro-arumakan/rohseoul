@@ -1,0 +1,491 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "allow_transparent_header": false,
+        "reveal": false,
+        "enable_parallax": false,
+        "show_image": false,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": false,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": true,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    },
+    "multi_column_8DXQtm": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_q7eXDM": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "ROH SEOUL LOOKBOOK:",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_yx6t7H": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_Mf4qUd": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Summer 24",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_q7eXDM",
+        "image_with_text_yx6t7H",
+        "image_with_text_Mf4qUd"
+      ],
+      "custom_css": [
+        ".multi-column {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "sm",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_AzFigN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HJHmHt": {
+          "type": "heading",
+          "settings": {
+            "text": "#1",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HJHmHt"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_9mpEmQ": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_fHkcWQ": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB1-1.jpg",
+            "title": "#1-1",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/taco-shoulder-bag-jute\" title=\"Taco shoulder bag Jute\">Taco shoulder bag Jute Creamy tan</a></p><p>Cross toe slides Creamy tan</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_c7h696": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB1-2.jpg",
+            "title": "#1-2",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/pulpy-hobo-bag-nylon\" title=\"Pulpy hobo bag Nylon\">Pulpy hobo bag Nylon Burlywood</a></p><p>Puzzle sandals Umber</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_fHkcWQ",
+        "image_with_text_c7h696"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_bGTg9p": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_M8VAWF": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_x6c9UG": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_M8VAWF",
+        "image_with_text_x6c9UG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_gATbEC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A49aU4": {
+          "type": "heading",
+          "settings": {
+            "text": "#2",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A49aU4"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_eeDAnn": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_VcV9ME": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB2-1.jpg",
+            "title": "#2-1",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/taco-shoulder-bag-jute\" title=\"Taco shoulder bag Jute\">Taco shoulder bag Jute Ivory</a></p><p>Puzzle sandals Ivory</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_ccHHVh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB2-2.jpg",
+            "title": "#2-2",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/cargo-shoulder-bag-nylon\" title=\"Cargo shoulder bag Nylon\">Cargo shoulder bag Nylon Black</a></p><p>Surfer flip flops Black</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_VcV9ME",
+        "image_with_text_ccHHVh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_7jnNmt": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_Q38WNn": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_dfhgMm": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_Q38WNn",
+        "image_with_text_dfhgMm"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_9UBray": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4mGC4L": {
+          "type": "heading",
+          "settings": {
+            "text": "#3",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4mGC4L"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_mXkcCz": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_EnLUcH": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB3-1.jpg",
+            "title": "#3-1",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/cargo-shoulder-bag-nylon\" title=\"Cargo shoulder bag Nylon\">Cargo shoulder bag Nylon Gray</a></p><p>Rope up sandals Black</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_EnLUcH"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_b7aGHh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7dEBTe": {
+          "type": "heading",
+          "settings": {
+            "text": "#4",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7dEBTe"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_EC4TfK": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_nYH9NX": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/24_Resort_LB4-1.jpg",
+            "title": "#4-1",
+            "heading_tag": "h5",
+            "content": "<p><a href=\"/products/taco-shoulder-bag-jute\" title=\"Taco shoulder bag Jute\">Taco shoulder bag Jute Black</a></p><p>Rowie mary jane shoes Mesh Black</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_nYH9NX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_zDkiA7": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_rgU8zw": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_zpqtKP": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_rgU8zw",
+        "image_with_text_zpqtKP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "multi_column_8DXQtm",
+    "rich_text_AzFigN",
+    "multi_column_9mpEmQ",
+    "multi_column_bGTg9p",
+    "rich_text_gATbEC",
+    "multi_column_eeDAnn",
+    "multi_column_7jnNmt",
+    "rich_text_9UBray",
+    "multi_column_mXkcCz",
+    "rich_text_b7aGHh",
+    "multi_column_EC4TfK",
+    "multi_column_zDkiA7"
+  ]
+}
