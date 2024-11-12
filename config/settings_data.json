@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "section_vertical_spacing": "md",
@@ -14,20 +23,18 @@
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
     "show_page_transition": false,
-    "color_swatch_config": "Ivory: #cbc6ba\nCreamy salmon: #eebfac\nBrownie brown: #5c4e4c\nGrey green: #7d7a6a\nBeige: #e8dbcb\nPermanent mint: #bcc2ac\nChestnut: #7b4320\nUmber: #584a40\nCinnamon brown: #7a4b3c\nSand beige: #b3a79f\nGrey: #888585\nGlossy black: #232524\nGlossy brownie brown: #523e35\nGlossy chocolate: #74472e\nWrinkled Black: #1b1d1f\nWrinkled Ivory: #c5bcaf\nMisty blue: #7e8a8d\nMacadamia: #bbb2a3\nCreamy tan: #7f533b\nYellowish brown: #c19c78\nSuede beige: #9f7e59\nDeep navy: #000035\nCerulean blue: #bccad3\nWrinkled black: #2E2E2E\nBurlywood: #DEB887\nWrinkled ivory: #F5F5DC\nPale blue stripe: #B0C4DE\nTerre verte: #8F9779\nYellow ochre: #D8A215\nCafe brown: #6F4E37\nBrandy brown: #7F4A35\nPeanut beige stripe: #D2B48C\nBurnt ochre: #977356\nTaupe: #483C32\nTaupe combi: #8b7b5d\nGlossy caramel: #baa094\nCoral beige: #a2816a",
+    "color_swatch_config": "Ivory: #cbc6ba\nCreamy salmon: #eebfac\nBrownie brown: #5c4e4c\nGrey green: #7d7a6a\nBeige: #e8dbcb\nPermanent mint: #bcc2ac\nChestnut: #7b4320\nUmber: #584a40\nCinnamon brown: #7a4b3c\nSand beige: #b3a79f\nGrey: #888585\nGlossy black: #232524\nGlossy brownie brown: #523e35\nGlossy chocolate: #74472e\nWrinkled Black: #1b1d1f\nWrinkled Ivory: #c5bcaf\nMisty blue: #7e8a8d\nMacadamia: #bbb2a3\nCreamy tan: #7f533b\nYellowish brown: #c19c78\nSuede beige: #9f7e59\nDeep navy: #000035\nCerulean blue: #bccad3\nWrinkled black: #2E2E2E\nBurlywood: #DEB887\nWrinkled ivory: #F5F5DC\nPale blue stripe: #B0C4DE\nTerre verte: #8F9779\nYellow ochre: #D8A215\nCafe brown: #6F4E37\nBrandy brown: #7F4A35\nPeanut beige stripe: #D2B48C\nBurnt ochre: #977356\nTaupe: #483C32\nTaupe combi: #8b7b5d\nGlossy caramel: #baa094\nCoral beige: #a2816a\nivory: #FFFFF0\nWrinkled Burnt ochre: #CC7722\ncinnamon-brown: #7B3F00\nblack: #000000\nBrownie Brown: #65350F\nglossy-chocolate: #3F2A1D\ntaupe: #483C32\nWrinkled Umber: #635147\nWhite: #FFFFFF\nWrinkled Brown: #7B3F00\nCreamy Salmon: #FFA07A\nglossy-caramel: #85461E\nblack-silver: #5A5A5A\number-silver: #736A57\ncreamy-tan: #D2B48C\nCharcoal: #36454F\nShaded blue: #4876FF\nglossy-black: #0C0C0C\nBlack: #000000\nglossy-brownie-brown: #4C3024\nGray: #808080\number: #635147",
     "product_image_aspect_ratio": "natural",
     "show_product_rating": false,
-    "social_instagram": "https:\/\/www.instagram.com\/rohseoul_jp\/",
-    "social_youtube": "https:\/\/www.youtube.com\/@rohseoul",
+    "social_instagram": "https://www.instagram.com/rohseoul_jp/",
+    "social_youtube": "https://www.youtube.com/@rohseoul",
     "favicon": "{{ shop.brand.square_logo }}",
-    "checkout_logo_image": "shopify:\/\/shop_images\/roh.png",
+    "checkout_logo_image": "shopify://shop_images/roh.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_accent_color": "#1f1e1e",
     "checkout_button_color": "#1f1e1e",
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
