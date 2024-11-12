@@ -29,9 +29,9 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/tb_fall24_1_pc_8w.jpg",
-        "mobile_image": "shopify://shop_images/tb_fall24_1_m_8w.jpg",
-        "image_url": "shopify://products/mini-saddle-bag",
+        "image": "shopify://shop_images/tb_pw24_pc_1w.jpg",
+        "mobile_image": "shopify://shop_images/tb_pw24_m_1w.jpg",
+        "image_url": "shopify://products/medium-aline-shoulder-bag",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
