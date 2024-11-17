@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "collection-banner": {
@@ -107,63 +98,43 @@
       "blocks": {
         "image_QMggTd": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_1.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_1.jpg" }
         },
         "image_HeTtCA": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_2.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_2.jpg" }
         },
         "image_8M9aVX": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_3.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_3.jpg" }
         },
         "image_Fekat3": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_4.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_4.jpg" }
         },
         "image_XQ3DkT": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_5.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_5.jpg" }
         },
         "image_wWAAWW": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_6.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_6.jpg" }
         },
         "image_bcD9Fq": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_7.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_7.jpg" }
         },
         "image_4xt3Bj": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_8.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_8.jpg" }
         },
         "image_NJzrda": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_9.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_9.jpg" }
         },
         "image_Q7xpJd": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_10.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_10.jpg" }
         }
       },
       "block_order": [
@@ -190,63 +161,43 @@
       "blocks": {
         "image_HcLGpj": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_11.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_11.jpg" }
         },
         "image_VERwaW": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_12.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_12.jpg" }
         },
         "image_txXzGw": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_13.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_13.jpg" }
         },
         "image_iqibqt": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_14.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_14.jpg" }
         },
         "image_WF9Cb9": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_15.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_15.jpg" }
         },
         "image_f4TkkW": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_16.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_16.jpg" }
         },
         "image_RjRPqf": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_17.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_17.jpg" }
         },
         "image_FhRypN": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_18.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_18.jpg" }
         },
         "image_8iAmCz": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_19.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_19.jpg" }
         },
         "image_nbHrmR": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_20.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_20.jpg" }
         }
       },
       "block_order": [
@@ -273,63 +224,43 @@
       "blocks": {
         "image_RyCNaQ": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_21.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_21.jpg" }
         },
         "image_Hj3KiL": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_22.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_22.jpg" }
         },
         "image_JNcXVK": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_23.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_23.jpg" }
         },
         "image_AdJqpX": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_24.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_24.jpg" }
         },
         "image_i4TLqe": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_25.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_25.jpg" }
         },
         "image_HYzViz": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_26.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_26.jpg" }
         },
         "image_pjCUj9": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_27.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_27.jpg" }
         },
         "image_kAmmaW": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_28.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_28.jpg" }
         },
         "image_yX3HLt": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_29.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_29.jpg" }
         },
         "image_UGh83c": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_30.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_30.jpg" }
         }
       },
       "block_order": [
@@ -356,21 +287,14 @@
       "blocks": {
         "image_eLrQaU": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_31.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_31.jpg" }
         },
         "image_rTL8Qz": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/24_Resort_CP_32.jpg"
-          }
+          "settings": { "image": "shopify://shop_images/24_Resort_CP_32.jpg" }
         }
       },
-      "block_order": [
-        "image_eLrQaU",
-        "image_rTL8Qz"
-      ],
+      "block_order": ["image_eLrQaU", "image_rTL8Qz"],
       "settings": {
         "color_scheme": "",
         "image_position": "center",

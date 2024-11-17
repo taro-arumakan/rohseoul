@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "collection-banner": {
@@ -88,9 +79,7 @@
         "image_with_text_yx6t7H",
         "image_with_text_Mf4qUd"
       ],
-      "custom_css": [
-        ".multi-column {row-gap: 0;}"
-      ],
+      "custom_css": [".multi-column {row-gap: 0;}"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -110,15 +99,10 @@
       "blocks": {
         "heading_HJHmHt": {
           "type": "heading",
-          "settings": {
-            "text": "#1",
-            "heading_tag": "h4"
-          }
+          "settings": { "text": "#1", "heading_tag": "h4" }
         }
       },
-      "block_order": [
-        "heading_HJHmHt"
-      ],
+      "block_order": ["heading_HJHmHt"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -153,10 +137,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_fHkcWQ",
-        "image_with_text_c7h696"
-      ],
+      "block_order": ["image_with_text_fHkcWQ", "image_with_text_c7h696"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -195,10 +176,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_M8VAWF",
-        "image_with_text_x6c9UG"
-      ],
+      "block_order": ["image_with_text_M8VAWF", "image_with_text_x6c9UG"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -218,15 +196,10 @@
       "blocks": {
         "heading_A49aU4": {
           "type": "heading",
-          "settings": {
-            "text": "#2",
-            "heading_tag": "h4"
-          }
+          "settings": { "text": "#2", "heading_tag": "h4" }
         }
       },
-      "block_order": [
-        "heading_A49aU4"
-      ],
+      "block_order": ["heading_A49aU4"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -261,10 +234,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_VcV9ME",
-        "image_with_text_ccHHVh"
-      ],
+      "block_order": ["image_with_text_VcV9ME", "image_with_text_ccHHVh"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -303,10 +273,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_Q38WNn",
-        "image_with_text_dfhgMm"
-      ],
+      "block_order": ["image_with_text_Q38WNn", "image_with_text_dfhgMm"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -326,15 +293,10 @@
       "blocks": {
         "heading_4mGC4L": {
           "type": "heading",
-          "settings": {
-            "text": "#3",
-            "heading_tag": "h4"
-          }
+          "settings": { "text": "#3", "heading_tag": "h4" }
         }
       },
-      "block_order": [
-        "heading_4mGC4L"
-      ],
+      "block_order": ["heading_4mGC4L"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -358,9 +320,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_EnLUcH"
-      ],
+      "block_order": ["image_with_text_EnLUcH"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -380,15 +340,10 @@
       "blocks": {
         "heading_7dEBTe": {
           "type": "heading",
-          "settings": {
-            "text": "#4",
-            "heading_tag": "h4"
-          }
+          "settings": { "text": "#4", "heading_tag": "h4" }
         }
       },
-      "block_order": [
-        "heading_7dEBTe"
-      ],
+      "block_order": ["heading_7dEBTe"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -412,9 +367,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_nYH9NX"
-      ],
+      "block_order": ["image_with_text_nYH9NX"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -453,10 +406,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_rgU8zw",
-        "image_with_text_zpqtKP"
-      ],
+      "block_order": ["image_with_text_rgU8zw", "image_with_text_zpqtKP"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,

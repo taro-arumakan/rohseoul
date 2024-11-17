@@ -1,33 +1,14 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h5"
-          }
-        },
+        "title": { "type": "title", "settings": { "heading_tag": "h5" } },
         "price": {
           "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
+          "settings": { "show_taxes_notice": false }
         },
-        "separator_9Vkcm4": {
-          "type": "separator",
-          "settings": {}
-        },
+        "separator_9Vkcm4": { "type": "separator", "settings": {} },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -38,14 +19,8 @@
             "size_chart_page": ""
           }
         },
-        "separator_FhyBD7": {
-          "type": "separator",
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
+        "separator_FhyBD7": { "type": "separator", "settings": {} },
+        "quantity_selector": { "type": "quantity_selector", "settings": {} },
         "payment_terms": {
           "type": "payment_terms",
           "disabled": true,
@@ -72,16 +47,10 @@
             "show_quick_buy": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
+        "separator": { "type": "separator", "settings": {} },
         "description": {
           "type": "description",
-          "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
-          }
+          "settings": { "collapse_content": false, "show_below_gallery": false }
         },
         "accordion_PwXCdf": {
           "type": "accordion",
@@ -171,9 +140,5 @@
       }
     }
   },
-  "order": [
-    "main",
-    "related-products",
-    "recently_viewed_products_QmiEBP"
-  ]
+  "order": ["main", "related-products", "recently_viewed_products_QmiEBP"]
 }

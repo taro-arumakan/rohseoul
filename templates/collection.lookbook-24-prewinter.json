@@ -88,9 +88,7 @@
         "image_with_text_yx6t7H",
         "image_with_text_Mf4qUd"
       ],
-      "custom_css": [
-        ".multi-column {row-gap: 0;}"
-      ],
+      "custom_css": [".multi-column {row-gap: 0;}"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -116,9 +114,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_HJHmHt"
-      ],
+      "block_order": ["heading_HJHmHt"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -220,10 +216,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_M8VAWF",
-        "image_with_text_x6c9UG"
-      ],
+      "block_order": ["image_with_text_M8VAWF", "image_with_text_x6c9UG"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -249,9 +242,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_A49aU4"
-      ],
+      "block_order": ["heading_A49aU4"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -364,10 +355,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_Q38WNn",
-        "image_with_text_dfhgMm"
-      ],
+      "block_order": ["image_with_text_Q38WNn", "image_with_text_dfhgMm"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -393,9 +381,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_4mGC4L"
-      ],
+      "block_order": ["heading_4mGC4L"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -471,9 +457,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_7dEBTe"
-      ],
+      "block_order": ["heading_7dEBTe"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -574,10 +558,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_rgU8zw",
-        "image_with_text_zpqtKP"
-      ],
+      "block_order": ["image_with_text_rgU8zw", "image_with_text_zpqtKP"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -603,9 +584,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_JbcErg"
-      ],
+      "block_order": ["heading_JbcErg"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -678,7 +657,7 @@
         "image_with_text_AVwrzx",
         "image_with_text_WjKN3C",
         "image_with_text_7UAEhF",
-        "image_with_text_J4DwPr",
+        "image_with_text_J4DwPr"
       ],
       "settings": {
         "color_scheme": "",
@@ -718,10 +697,7 @@
           }
         }
       },
-      "block_order": [
-        "image_with_text_KUU7xk",
-        "image_with_text_RwmaNg"
-      ],
+      "block_order": ["image_with_text_KUU7xk", "image_with_text_RwmaNg"],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
