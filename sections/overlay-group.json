@@ -1,1 +1,69 @@
-{"type":"custom.overlay","name":"Overlay group","sections":{"cart-drawer":{"type":"cart-drawer","settings":{"color_scheme":"scheme-3","show_cart_note":true,"show_shipping_text":true,"show_view_cart_button":true,"show_checkout_button":true,"show_price_in_checkout_button":true,"cross_sell_products":[],"cross_sell_title":"Complete with","cross_sell_stack_products":false}},"newsletter-popup":{"type":"newsletter-popup","disabled":true,"settings":{"color_scheme":"","apparition_delay":3,"show_only_on_index":true,"hide_for_account_holders":true,"show_only_once":false,"title":"Newsletter登録","content":"ニュースレターで最新の情報をお届けします。","button_text":"Subscribe"}},"privacy-banner":{"type":"privacy-banner","disabled":true,"settings":{"color_scheme":"","title":"🍪 Cookie policy","content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}}},"order":["cart-drawer","newsletter-popup","privacy-banner"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "custom.overlay",
+  "name": "Overlay group",
+  "sections": {
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "show_cart_note": true,
+        "show_shipping_text": true,
+        "show_view_cart_button": true,
+        "show_checkout_button": true,
+        "show_price_in_checkout_button": true,
+        "cross_sell_products": [],
+        "cross_sell_title": "Complete with",
+        "cross_sell_stack_products": false
+      }
+    },
+    "newsletter-popup": {
+      "type": "newsletter-popup",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "apparition_delay": 3,
+        "show_only_on_index": true,
+        "hide_for_account_holders": true,
+        "show_only_once": false,
+        "title": "Newsletter登録",
+        "content": "ニュースレターで最新の情報をお届けします。",
+        "button_text": "Subscribe"
+      }
+    },
+    "announcement-popup": {
+      "type": "announcement-popup",
+      "settings": {
+        "color_scheme": "",
+        "apparition_delay": 2,
+        "show_only_on_index": false,
+        "show_only_once": false,
+        "title": "配送遅延のお知らせ",
+        "content": "<p>現在、韓国の豪雪の影響により、出荷および配送が遅延しております。</p><p>できる限り早く配送が進むよう手配を進めており、配送業者も最善を尽くしておりますので、何卒ご理解賜りますようお願い申し上げます。</p><p>11月27日 (水) 11時以降の出荷分より、出荷が遅延しております。ご了承ください。</p>"
+      }
+    },
+    "privacy-banner": {
+      "type": "privacy-banner",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "title": "🍪 Cookie policy",
+        "content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
+      }
+    }
+  },
+  "order": [
+    "cart-drawer",
+    "newsletter-popup",
+    "announcement-popup",
+    "privacy-banner"
+  ]
+}

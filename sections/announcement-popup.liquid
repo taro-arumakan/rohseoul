@@ -1,0 +1,77 @@
+{%- unless request.page_type == 'captcha' or section.settings.show_only_on_index and template != 'index' -%}
+  <newsletter-popup class="pop-in newsletter-popup color-scheme color-scheme--{{ section.settings.color_scheme.id }}" title="announcement popup" {% if section.settings.show_only_once %}only-once{% endif %} apparition-delay="{{ section.settings.apparition_delay }}" handle-editor-events>
+    <button class="pop-in__close-button tap-area" is="dialog-close-button">
+      <span class="sr-only">{{ 'general.accessibility.close' | t }}</span>
+      {%- render 'icon' with 'close' -%}
+    </button>
+
+    <div class="v-stack gap-8">
+      {%- if section.settings.title != blank or section.settings.content != blank -%}
+        <div class="v-stack gap-4 text-center">
+          {%- if section.settings.title != blank -%}
+            <p class="h4">{{ section.settings.title }}</p>
+          {%- endif -%}
+
+          {%- if section.settings.content != blank -%}
+            <div class="prose text-start">
+              {{ section.settings.content }}
+            </div>
+          {%- endif -%}
+        </div>
+      {%- endif -%}
+    </div>
+  </newsletter-popup>
+{%- endunless -%}
+
+{% schema %}
+{
+  "name": "Announcement Popup",
+  "class": "shopify-section--popup",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "t:sections.newsletter_popup.instructions"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:global.colors.scheme",
+      "default": "scheme-3"
+    },
+    {
+      "type": "range",
+      "id": "apparition_delay",
+      "min": 0,
+      "max": 15,
+      "step": 1,
+      "unit": "sec",
+      "label": "t:sections.newsletter_popup.delay",
+      "default": 5
+    },
+    {
+      "type": "checkbox",
+      "id": "show_only_on_index",
+      "label": "t:sections.newsletter_popup.show_only_on_home_page",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_only_once",
+      "label": "t:sections.newsletter_popup.show_only_once",
+      "default": true
+    },
+    {
+      "type": "inline_richtext",
+      "id": "title",
+      "label": "t:global.text.heading",
+      "default": "announcement title"
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "t:global.text.content",
+      "default": "<p>Your announcement goes here.</p>"
+    }
+  ]
+}
+{% endschema %}
