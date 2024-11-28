@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "newsletter": {
@@ -9,7 +18,7 @@
         "image_size": "auto",
         "subheading": "Keep me updated",
         "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -20,9 +29,9 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/2024_bf_banner_pc.png",
-        "mobile_image": "shopify:\/\/shop_images\/2024_bf_banner_sp.png",
-        "image_url": "shopify:\/\/collections\/all",
+        "image": "shopify://shop_images/2024_bf_banner_pc.png",
+        "mobile_image": "shopify://shop_images/2024_bf_banner_sp.png",
+        "image_url": "shopify://collections/all",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -39,15 +48,15 @@
         "image_DidwhP": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tb_pw24_pc_1w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/tb_pw24_m_1w.jpg",
+            "image": "shopify://shop_images/tb_pw24_pc_1w.jpg",
+            "mobile_image": "shopify://shop_images/tb_pw24_m_1w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/products\/medium-aline-shoulder-bag",
+            "button_1_link": "shopify://products/medium-aline-shoulder-bag",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -66,15 +75,15 @@
         "image_Ubweg3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tb_pw24_pc_2w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/tb_pw24_m_2w.jpg",
+            "image": "shopify://shop_images/tb_pw24_pc_2w.jpg",
+            "mobile_image": "shopify://shop_images/tb_pw24_m_2w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/products\/taco-shoulder-bag-1",
+            "button_1_link": "shopify://products/taco-shoulder-bag-1",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -93,15 +102,15 @@
         "image_ikNhzw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_6w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_6w.jpg",
+            "image": "shopify://shop_images/resort24_pc_6w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_6w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -120,15 +129,15 @@
         "image_b46dFL": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_7w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_7w.jpg",
+            "image": "shopify://shop_images/resort24_pc_7w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_7w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -147,15 +156,15 @@
         "image_CfE6MP": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_8w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_8w.jpg",
+            "image": "shopify://shop_images/resort24_pc_8w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_8w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -174,15 +183,15 @@
         "image_QKFqi8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_1w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_1w.jpg",
+            "image": "shopify://shop_images/resort24_pc_1w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_1w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -201,15 +210,15 @@
         "image_HprrtD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_2w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_2w.jpg",
+            "image": "shopify://shop_images/resort24_pc_2w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_2w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -228,15 +237,15 @@
         "image_dj98yp": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/resort24_pc_3w.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/resort24_m_3w.jpg",
+            "image": "shopify://shop_images/resort24_pc_3w.jpg",
+            "mobile_image": "shopify://shop_images/resort24_m_3w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
