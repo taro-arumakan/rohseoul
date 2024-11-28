@@ -102,15 +102,15 @@
         "image_ikNhzw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/resort24_pc_6w.jpg",
-            "mobile_image": "shopify://shop_images/resort24_m_6w.jpg",
+            "image": "shopify://shop_images/tb_pw24_pc_3w.jpg",
+            "mobile_image": "shopify://shop_images/tb_pw24_m_3w.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "",
-            "button_1_link": "shopify://collections/all",
+            "button_1_link": "shopify://products/pulpy-hobo-bag-suede",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
