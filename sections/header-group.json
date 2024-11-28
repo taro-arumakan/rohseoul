@@ -16,6 +16,7 @@
       "blocks": {
         "message_QfCPhX": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Black Friday開催中。10% off site-wide。"
           }
