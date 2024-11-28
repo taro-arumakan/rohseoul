@@ -41,6 +41,7 @@
     },
     "announcement-popup": {
       "type": "announcement-popup",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "apparition_delay": 2,
