@@ -190,7 +190,7 @@ note that this may have impact on different places.
     --page-background: {{ settings.color_schemes[0].settings.background.rgb }};
 
     /* Product colors */
-    --on-sale-text: {{ settings.product_on_sale_accent.rgb }};
+    --on-sale-text: rgb(var(--text-color));
     --on-sale-badge-background: {{ settings.product_on_sale_accent.rgb }};
     --on-sale-badge-text: {% if product_on_sale_accent_brightness < 150 %}255 255 255{% else %}0 0 0 / 0.65{% endif %};
     --sold-out-badge-background: {{ settings.product_sold_out_badge_background.rgb }};
