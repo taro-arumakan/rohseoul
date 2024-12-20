@@ -1,0 +1,349 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_size": "auto",
+        "allow_transparent_header": false,
+        "reveal": false,
+        "enable_parallax": false,
+        "show_image": false,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": false,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": true,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    },
+    "multi_column_8DXQtm": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_q7eXDM": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "ROH SEOUL CAMPAIGN:",
+            "heading_tag": "h4",
+            "content": "<h4>Winter 24</h4>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_yx6t7H": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "The Decade Dining: A Celebration of 10 Years",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_Mf4qUd": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p>ROH SEOULのWINTER 24コレクションは、暖かな冬の日差しの下、美しく彩られたテーブルの風景とともに、10年間の歩みを記念します。<br/>繊細な素材と構築的なシルエットは、ROH SEOULが積み重ねてきた時間の痕跡を映し出し、静かに培ってきた文化的価値を物語ります。<br/>WINTER 24は単なるコレクションではなく、あなたの特別な瞬間を記憶に刻み、輝かせるパートナーとなるでしょう。<br/>過去と未来が交わるこの特別な季節、温かなダイニング空間の中で、ROH SEOULとともに新たな物語を始めてみませんか。</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_q7eXDM",
+        "image_with_text_yx6t7H",
+        "image_with_text_Mf4qUd"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "sm",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "images_list_JqQ3ng": {
+      "type": "images-list",
+      "blocks": {
+        "image_QMggTd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_1.jpg"
+          }
+        },
+        "image_HeTtCA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_2.jpg"
+          }
+        },
+        "image_8M9aVX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_3.jpg"
+          }
+        },
+        "image_Fekat3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_4.jpg"
+          }
+        },
+        "image_XQ3DkT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_5.jpg"
+          }
+        },
+        "image_wWAAWW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_6.jpg"
+          }
+        },
+        "image_bcD9Fq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_7.jpg"
+          }
+        },
+        "image_4xt3Bj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_8.jpg"
+          }
+        },
+        "image_NJzrda": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_9.jpg"
+          }
+        },
+        "image_Q7xpJd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_10.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_QMggTd",
+        "image_HeTtCA",
+        "image_8M9aVX",
+        "image_Fekat3",
+        "image_XQ3DkT",
+        "image_wWAAWW",
+        "image_bcD9Fq",
+        "image_4xt3Bj",
+        "image_NJzrda",
+        "image_Q7xpJd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "images_list_n7F6ad": {
+      "type": "images-list",
+      "blocks": {
+        "image_HcLGpj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_11.jpg"
+          }
+        },
+        "image_VERwaW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_12.jpg"
+          }
+        },
+        "image_txXzGw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_13.jpg"
+          }
+        },
+        "image_iqibqt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_14.jpg"
+          }
+        },
+        "image_WF9Cb9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_15.jpg"
+          }
+        },
+        "image_f4TkkW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_16.jpg"
+          }
+        },
+        "image_RjRPqf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_17.jpg"
+          }
+        },
+        "image_FhRypN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_18.jpg"
+          }
+        },
+        "image_8iAmCz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_19.jpg"
+          }
+        },
+        "image_nbHrmR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_20.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_HcLGpj",
+        "image_VERwaW",
+        "image_txXzGw",
+        "image_iqibqt",
+        "image_WF9Cb9",
+        "image_f4TkkW",
+        "image_RjRPqf",
+        "image_FhRypN",
+        "image_8iAmCz",
+        "image_nbHrmR"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "images_list_ETqwnG": {
+      "type": "images-list",
+      "blocks": {
+        "image_RyCNaQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_21.jpg"
+          }
+        },
+        "image_Hj3KiL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_22.jpg"
+          }
+        },
+        "image_JNcXVK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_23.jpg"
+          }
+        },
+        "image_AdJqpX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_24.jpg"
+          }
+        },
+        "image_i4TLqe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_25.jpg"
+          }
+        },
+        "image_HYzViz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_26.jpg"
+          }
+        },
+        "image_pjCUj9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_27.jpg"
+          }
+        },
+        "image_kAmmaW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/24_Winter_CP_28.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_RyCNaQ",
+        "image_Hj3KiL",
+        "image_JNcXVK",
+        "image_AdJqpX",
+        "image_i4TLqe",
+        "image_HYzViz",
+        "image_pjCUj9",
+        "image_kAmmaW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "multi_column_8DXQtm",
+    "images_list_JqQ3ng",
+    "images_list_n7F6ad",
+    "images_list_ETqwnG"
+  ]
+}
