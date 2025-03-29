@@ -8,6 +8,7 @@
  * ------------------------------------------------------------
  */
 {
+  "wrapper": "div.rohseoul-collection",
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
