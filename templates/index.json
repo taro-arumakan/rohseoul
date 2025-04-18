@@ -29,8 +29,8 @@
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/winter24_pc_1w.jpg",
-        "mobile_image": "shopify://shop_images/winter24_m_1w.jpg",
+        "image": "shopify://shop_images/spring25_pc_1w.jpg",
+        "mobile_image": "shopify://shop_images/spring25_m_1w.jpg",
         "image_url": "shopify://collections/25-spring",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
