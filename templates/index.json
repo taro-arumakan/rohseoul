@@ -366,10 +366,10 @@
         "collection_RVRgEJ": {
           "type": "collection",
           "settings": {
-            "collection": "25-spring",
-            "products_count": 6,
-            "title": "NEW ARRIVALS",
-            "link_url": "shopify://collections/25-spring",
+            "collection": "new-arrival",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
             "link_text": "View all"
           }
         }
