@@ -26,13 +26,12 @@
     },
     "image_with_text_overlay_WqUrY6": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "image_size": "auto",
-        "image": "shopify://shop_images/spring25_pc_1w.jpg",
-        "mobile_image": "shopify://shop_images/spring25_m_1w.jpg",
-        "image_url": "shopify://collections/25-spring",
+        "image": "shopify://shop_images/spring25_pc_4w.jpg",
+        "mobile_image": "shopify://shop_images/spring25_m_4w.jpg",
+        "image_url": "shopify://collections/new-arrival",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -348,6 +347,7 @@
         "image_dq3Hy4",
         "image_UC4tx7"
       ],
+      "disabled": true,
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": false,
