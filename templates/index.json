@@ -76,8 +76,8 @@
         "image_UC4tx7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/summer25_pc_1.jpg",
-            "mobile_image": "shopify://shop_images/summer25_m_1.jpg",
+            "image": "shopify://shop_images/resort25_pc_2.jpg",
+            "mobile_image": "shopify://shop_images/resort25_m_2.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
